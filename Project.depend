@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1672173868 source:c:\users\user\desktop\project\main.c
+	"Matrix.h"
+
+1672172967 source:c:\users\user\desktop\project\matrix.c
+	"Matrix.h"
+
+1672084201 c:\users\user\desktop\project\matrix.h
+	<stdio.h>
+	<stdlib.h>
+
+1672916410 source:d:\c language\projects\matrix calculator\main.c
+	"Matrix.h"
+
+1672935398 d:\c language\projects\matrix calculator\matrix.h
+	<stdio.h>
+	<stdlib.h>
+
+1672935398 source:d:\c language\projects\matrix calculator\matrix.c
+	"Matrix.h"
+
